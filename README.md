@@ -66,7 +66,8 @@ This repository is ideal for demoing explainable AI, financial risk analytics, a
 
 ## Architecture
 
-```mermaid
+<img width="2125" height="2031" alt="loan_approval_system_architecture" src="https://github.com/user-attachments/assets/439e5d41-d58f-460a-9600-a699a95d75aa" />
+
 flowchart LR
   A[Applicant Input Form] --> B[Hybrid Decision Engine]
   B --> C[Rule-Based System]
