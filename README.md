@@ -20,12 +20,10 @@ This repository is ideal for demoing explainable AI, financial risk analytics, a
 ---
 
 ## Visual Preview
-
-![LoanIQ dashboard preview](https://via.placeholder.com/900x320.png?text=LoanIQ+Dashboard+Preview)
-
-> Replace the placeholder with an actual app screenshot once you capture the Streamlit UI.
-
----
+<img width="1919" height="879" alt="Screenshot 2026-06-11 182721" src="https://github.com/user-attachments/assets/1297b77c-c2ed-4be2-a21f-9edf357dd26c" />
+<img width="1627" height="797" alt="Screenshot 2026-06-11 182844" src="https://github.com/user-attachments/assets/8b014dff-f909-402e-b1f1-e078f3f17036" />
+<img width="1498" height="436" alt="Screenshot 2026-06-11 183020" src="https://github.com/user-attachments/assets/9c847007-8cd2-45d3-8600-d1fae599c68d" />
+<img width="1504" height="755" alt="Screenshot 2026-06-11 183040" src="https://github.com/user-attachments/assets/4b11beb0-4dae-4426-99dc-7a502c10ef2b" />
 
 ## Table of contents
 
